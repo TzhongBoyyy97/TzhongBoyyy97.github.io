@@ -19,6 +19,6 @@ In daily life, I enjoy sports including fitness, swimming, and badminton; I love
 
 Acknowledgment
 ------
-This is the front page of my website and is powered by the [academicpages template](https://academicpages.github.io/)
+This is the front page of my website and is powered by the [academicpages template](https://academicpages.github.io/).
 
 Thanks for [Yi Zhou](https://echochou990919.github.io/)’s and [Zhoumiao He](https://abaowannasleep.github.io/)’s help.
