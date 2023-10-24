@@ -37,5 +37,5 @@ B.E. in Computer Science and Technology, GPA: Top 10% of majors
 # Awards
 
 - Outstanding Graduate of Sichuan University, 2022
-- Outstanding Student of Sichuan University, 2020,2021
+- Outstanding Student of Sichuan University, 2020 and 2021
 - Second-class of Excellent Graduate Scholarship by Sichuan University, 2021 and 2022
