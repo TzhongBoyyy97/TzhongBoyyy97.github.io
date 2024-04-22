@@ -28,5 +28,6 @@ Technology (ICIST), pp. 158-165. IEEE, 2021.
 Weimin Li, Zhang Yi, Chengdi Wang, Jixiang Guo, Jun Shao, Xiuyuan Xu, Yanqi He, **Tianzhong Lan**, Yale Yang, Yuanyuan Chen  
 CN112669314B
 
-- A method, system, equipment, and medium for detecting multiple lesions of lung cancer
+- A method, system, equipment, and medium for detecting multiple lesions of lung cancer 
 Xiuyuan Xu, Nan Chen, **Tianzhong Lan**, Zongyuan Li, Yuhao Chen
+
