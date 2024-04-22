@@ -16,11 +16,17 @@ Technology (ICIST), pp. 158-165. IEEE, 2021.
 
 # Preprints
 
-- **Tianzhong Lan**, Fanxin Zeng, Zhang Yi, Xiuyuan Xu, Min Zhu. "ICNoduleNet: Mitigating the Performance Discrepancy of Pulmonary Nodule Detectors on Different CT Reconstruction Kernels"
-<!-- Knowledge-Based Systems (KBS) *(Under Review)* -->
+- **Tianzhong Lan**, Fanxin Zeng, Zhang Yi, Xiuyuan Xu, Min Zhu. "ICNoduleNet: Enhancing Pulmonary Nodule Detection Performance on Sharp Kernel CT Imaging"
+<!-- IEEE Journal of Biomedical and Health Informatics (JBHI) *(Under Review (Revised 1))* -->
+
+- **Tianzhong Lan**, Lei Chen, Kai Zhou, Zhang Yi, Nan Chen, Xiuyuan Xu, Min Zhu. "Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba"
+<!-- the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024) *(Under Review)* -->
 
 # Patents
 
 - Lung cancer full-cycle intelligent management imaging data platform  
 Weimin Li, Zhang Yi, Chengdi Wang, Jixiang Guo, Jun Shao, Xiuyuan Xu, Yanqi He, **Tianzhong Lan**, Yale Yang, Yuanyuan Chen  
-CN112669314B 
+CN112669314B
+
+- A method, system, equipment, and medium for detecting multiple lesions of lung cancer
+Xiuyuan Xu, Nan Chen, **Tianzhong Lan**, Zongyuan Li, Yuhao Chen
