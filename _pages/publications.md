@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Papers
+- **Tianzhong Lan**, Fanxin Zeng, Zhang Yi, Xiuyuan Xu, Min Zhu. "ICNoduleNet: Enhancing Pulmonary Nodule Detection Performance on Sharp Kernel CT Imaging" (accepted by IEEE Journal of Biomedical and Health Informatics (JBHI))
 
 - **Tianzhong Lan**, Jingwei Li, Xiuyuan Xu, Chengdi Wang, Zhang Yi, Weimin Li, and
 Jixiang Guo. ”A Deep Learning Based Method for Structuring the Chinese Pathological Reports
@@ -15,9 +16,6 @@ Technology (ICIST), pp. 158-165. IEEE, 2021.
 - Jun Shao, Gang Wang, Le Yi, Chengdi Wang, **Tianzhong Lan**, Xiuyuan Xu, Jixiang Guo, Taibing Deng, Dan Liu, Bojiang Chen, Zhang Yi, Weimin Li. Deep Learning Empowers Lung Cancer Screening Based on Mobile Low-Dose Computed Tomography in Resource-Constrained Sites. Front. Biosci. (Landmark Ed) 2022, 27(7), 212.  
 
 # Preprints
-
-- **Tianzhong Lan**, Fanxin Zeng, Zhang Yi, Xiuyuan Xu, Min Zhu. "ICNoduleNet: Enhancing Pulmonary Nodule Detection Performance on Sharp Kernel CT Imaging"
-<!-- IEEE Journal of Biomedical and Health Informatics (JBHI) *(Under Review (Revised 1))* -->
 
 - **Tianzhong Lan**, Lei Chen, Kai Zhou, Zhang Yi, Nan Chen, Xiuyuan Xu, Min Zhu. "Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba"
 <!-- the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024) *(Under Review)* -->
