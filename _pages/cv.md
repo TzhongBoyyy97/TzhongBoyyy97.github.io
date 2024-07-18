@@ -29,6 +29,7 @@ B.E. in Computer Science and Technology, GPA: Top 10% of majors
 - Journal Reviewers:
   - Artificial Intelligence in Medicine
   - IEEE Transactions on Neural Networks and Learning Systems
+  - the 27th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024)
 
 # Competitions
 
