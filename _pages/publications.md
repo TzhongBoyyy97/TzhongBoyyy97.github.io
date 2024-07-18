@@ -17,7 +17,7 @@ Technology (ICIST), pp. 158-165. IEEE, 2021.
 # Preprints
 
 - **Tianzhong Lan**, Lei Chen, Kai Zhou, Zhang Yi, Nan Chen, Xiuyuan Xu, Min Zhu. "Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba"
-<!-- the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024) *(Under Review)* -->
+<!-- 2024 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024) *(Under Review)* -->
 
 # Patents
 
