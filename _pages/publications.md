@@ -19,7 +19,9 @@ Technology (ICIST), pp. 158-165. IEEE, 2021.
 - **Tianzhong Lan**, Nan Chen, Zhang Yi, Xiuyuan Xu, Min Zhu. "Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba"
 <!-- 2024 IEEE International Conference on Bioinformatics and Biomedicine (MICCAI 2025) *(Under Review)* -->
 - **Tianzhong Lan**, Zhang Yi, Xiuyuan Xu, Min Zhu. "GeoCoBox: Box-supervised 3D Tumor Segmentation via Geometric Co-embedding"
-<!-- 2024 IEEE International Conference on Bioinformatics and Biomedicine (IEEE TMI 2025) *(Under Review)* -->
+<!-- 2025 IEEE International Conference on Bioinformatics and Biomedicine (ACM MM 2025) *(Under Review)* -->
+- **Tianzhong Lan**, Zhang Yi, Xiuyuan Xu, Min Zhu. "LooBox: Loose-box-supervised 3D Tumor Segmentation with Self-correcting Bidirectional Learning"
+<!-- 2025 IEEE International Conference on Bioinformatics and Biomedicine (ACM MM 2025) *(Under Review)* -->
 
 # Patents
 
