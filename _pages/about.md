@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! This is Tianzhong Lan, a third-year doctoral student in the [College of Computer Science](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/), under the supervision of Prof. [Min Zhu](https://cs.scu.edu.cn/info/1279/13673.htm). And I received a master's degree from Sichuan University in 2022, under the supervision of Prof. [Zhang Yi](https://cs.scu.edu.cn/info/1288/13625.htm).  
+Welcome to my page! This is Tianzhong Lan, a third-year Ph.D. candidate in the [College of Computer Science](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/), under the supervision of Prof. [Min Zhu](https://cs.scu.edu.cn/info/1279/13673.htm). I received a master's degree from Sichuan University in 2022, under the supervision of Prof. [Zhang Yi](https://cs.scu.edu.cn/info/1288/13625.htm).  
 <!-- Here is my [CV](https://echochou990919.github.io/files/YiZhou_CV.pdf). -->
 
 My research interests include **Computer Vision** and **Medical Imaging Processing**, especially **Label-efficient Learning** for **Cross-domain** Tumor Diagnosis. I am interested in building a **unified framework** for lesion detection and segmentation and improving its generalizability under various data distributions; welcome to exchange advice!
