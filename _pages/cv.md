@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Please kindly find my [CV](https://tzhongboyyy97.github.io/files/TianzhongLan_CV.pdf) here.
+Please find my CV here: [CV](https://tzhongboyyy97.github.io/files/TianzhongLan_CV.pdf).
 
 # Education
 
@@ -29,7 +29,10 @@ B.E. in Computer Science and Technology, GPA: Top 10% of majors
 - Journal Reviewers:
   - Artificial Intelligence in Medicine
   - IEEE Transactions on Neural Networks and Learning Systems
-  - the 27th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024)
+
+- Conference Reviewers:
+  - the 27th and the 28th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024, 2025)
+  - the 33rd ACM International Conference on Multimedia (ACM MM 2025)
 
 # Competitions
 
