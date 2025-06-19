@@ -7,6 +7,7 @@ author_profile: true
 
 # Papers
 - **Tianzhong Lan**, Fanxin Zeng, Zhang Yi, Xiuyuan Xu, Min Zhu. "ICNoduleNet: Enhancing Pulmonary Nodule Detection Performance on Sharp Kernel CT Imaging." IEEE Journal of Biomedical and Health Informatics (2024).
+- **Tianzhong Lan**, Nan Chen, Zhang Yi, Xiuyuan Xu, Min Zhu. "Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba." 2025 IEEE International Conference on Bioinformatics and Biomedicine (MICCAI 2025).
 - **Tianzhong Lan**, Jingwei Li, Xiuyuan Xu, Chengdi Wang, Zhang Yi, Weimin Li, and
 Jixiang Guo. ”A Deep Learning Based Method for Structuring the Chinese Pathological Reports
 of Lung Specimen.” In 2021 11th International Conference on Information Science and
@@ -15,9 +16,6 @@ Technology (ICIST), pp. 158-165. IEEE, 2021.
 - Jun Shao, Gang Wang, Le Yi, Chengdi Wang, **Tianzhong Lan**, Xiuyuan Xu, Jixiang Guo, Taibing Deng, Dan Liu, Bojiang Chen, Zhang Yi, Weimin Li. Deep Learning Empowers Lung Cancer Screening Based on Mobile Low-Dose Computed Tomography in Resource-Constrained Sites. Front. Biosci. (Landmark Ed) 2022, 27(7), 212.  
 
 # Preprints
-
-- **Tianzhong Lan**, Nan Chen, Zhang Yi, Xiuyuan Xu, Min Zhu. "Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba"
-<!-- 2024 IEEE International Conference on Bioinformatics and Biomedicine (MICCAI 2025) *(Under Review)* -->
 - **Tianzhong Lan**, Zhang Yi, Xiuyuan Xu, Min Zhu. "GeoCoBox: Box-supervised 3D Tumor Segmentation via Geometric Co-embedding"
 <!-- 2025 IEEE International Conference on Bioinformatics and Biomedicine (ACM MM 2025) *(Under Review)* -->
 - **Tianzhong Lan**, Zhang Yi, Xiuyuan Xu, Min Zhu. "LooBox: Loose-box-supervised 3D Tumor Segmentation with Self-correcting Bidirectional Learning"
