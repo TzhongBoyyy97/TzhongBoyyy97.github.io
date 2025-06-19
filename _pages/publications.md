@@ -7,7 +7,7 @@ author_profile: true
 
 # Papers
 - **Tianzhong Lan**, Fanxin Zeng, Zhang Yi, Xiuyuan Xu, Min Zhu. "ICNoduleNet: Enhancing Pulmonary Nodule Detection Performance on Sharp Kernel CT Imaging." IEEE Journal of Biomedical and Health Informatics (2024).
-- **Tianzhong Lan**, Nan Chen, Zhang Yi, Xiuyuan Xu, Min Zhu. "Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba." 2025 IEEE International Conference on Bioinformatics and Biomedicine (MICCAI 2025).
+- **Tianzhong Lan**, Nan Chen, Zhang Yi, Xiuyuan Xu, Min Zhu. "Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba." The 28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025).
 - **Tianzhong Lan**, Jingwei Li, Xiuyuan Xu, Chengdi Wang, Zhang Yi, Weimin Li, and
 Jixiang Guo. ”A Deep Learning Based Method for Structuring the Chinese Pathological Reports
 of Lung Specimen.” In 2021 11th International Conference on Information Science and
