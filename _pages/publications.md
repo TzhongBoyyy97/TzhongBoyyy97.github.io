@@ -29,5 +29,5 @@ CN112669314B
 
 - A method, system, equipment, and medium for detecting multiple lesions of lung cancer  
 Xiuyuan Xu, Nan Chen, **Tianzhong Lan**, Zongyuan Li, Yuhao Chen
-CN118212501A
+CN118212501B
 
