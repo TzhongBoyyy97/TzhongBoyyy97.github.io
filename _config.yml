@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianzhong Lan's Homepage"
 title_separator          : "-"
 name                     : &name "Tianzhong Lan"
-description              : &description "Ph.D. Student, Sichuan University"
+description              : &description "Joint Ph.D. Student, Sichuan University and A*STAR"
 url                      : https://TzhongBoyyy97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TzhongBoyyy97.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tianzhong Lan"
   avatar           : "profile_ltz.png"
-  bio              : "Ph.D. Student, Sichuan University"
+  bio              : "Joint Ph.D. Student, Sichuan University and A*STAR"
   location         : Chengdu, China
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
