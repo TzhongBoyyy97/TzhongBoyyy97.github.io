@@ -16,7 +16,7 @@ Please find my CV here: [English Version](https://tzhongboyyy97.github.io/files/
 - College of Computer Science, Sichuan University, 2026 (Expected)  
 Ph.D. in Computer Science and Technology
 - College of Computer Science, Sichuan University, 2022  
-M.S. in Software Engineering, [GPA](https://tzhongboyyy97.github.io/files/SCU_YJS_CJD_ZW_LS.pdf)
+M.S. in Software Engineering
 - College of Computer Science, Northern University of Technology, 2019  
 B.E. in Computer Science and Technology, GPA: Top 10% of majors
 
