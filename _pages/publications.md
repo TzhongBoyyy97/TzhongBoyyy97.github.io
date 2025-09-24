@@ -15,6 +15,8 @@ author_profile: true
 - **Tianzhong Lan**, Zhang Yi, Xiuyuan Xu, Min Zhu. "GeoCoBox: Box-supervised 3D Tumor Segmentation via Geometric Co-embedding"
 <!-- 2025 IEEE International Conference on Bioinformatics and Biomedicine (ACM MM 2025) *(Under Review)* -->
 
+- **Tianzhong Lan**, Junqi Bai, Xulei Yang, Min Zhu. "Wavelet-Driven Cross-Domain Consistency for Mixed-Supervised 3D Tumor Segmentation"
+
 # Patents
 
 - Lung cancer full-cycle intelligent management imaging data platform  
