@@ -25,14 +25,17 @@ B.E. in Computer Science and Technology, GPA: Top 10% of majors
 - Teaching Assistant: Database Systems, Sichuan University, Fall 2021
 
 # Academic Services
+- Session Chairs:
+  - ACM MM 2025
 
 - Journal Reviewers:
   - Artificial Intelligence in Medicine
   - IEEE Transactions on Neural Networks and Learning Systems
 
 - Conference Reviewers:
-  - the 27th and the 28th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024, 2025)
-  - the 33rd ACM International Conference on Multimedia (ACM MM 2025)
+  - MICCAI 2024, 2025
+  - ACM MM 2025
+  - AAAI 2026
 
 # Competitions
 
