@@ -13,7 +13,8 @@ author_profile: true
 - Jun Shao, Gang Wang, Le Yi, Chengdi Wang, **Tianzhong Lan**, Xiuyuan Xu, Jixiang Guo, Taibing Deng, Dan Liu, Bojiang Chen, Zhang Yi, Weimin Li. Deep Learning Empowers Lung Cancer Screening Based on Mobile Low-Dose Computed Tomography in Resource-Constrained Sites. Front. Biosci. (Landmark Ed) 2022, 27(7), 212.  
 
 # Preprints
-- **Tianzhong Lan**, Junqi Bai, Xulei Yang, Min Zhu. "Wavelet-Driven Cross-Domain Consistency for Mixed-Supervised 3D Tumor Segmentation"
+- **Tianzhong Lan**, Weili Jiang, Yisong Liu, Yi Zhou, Junqi Bai, Si Yong Yeo, Xulei Yang, Min Zhu. "Wavelet-Driven Cross-Domain Consistency for Mixed-Supervised 3D Tumor Segmentation"
+- **Tianzhong Lan**, Weili Jiang, Ziyuan Yang, Xulei Yang, Yang Feng, Min Zhu. "Less Masks, More Reports: Closed-Loop Text-Grounded Image-to-Mask for 3D Small Nodule Segmentation"
 <!-- CVPR 2026 *(Under Review)* -->
 
 # Patents
