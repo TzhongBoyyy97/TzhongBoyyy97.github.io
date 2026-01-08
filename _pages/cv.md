@@ -31,6 +31,7 @@ B.E. in Computer Science and Technology, GPA: Top 10% of majors
 - Journal Reviewers:
   - Artificial Intelligence in Medicine
   - IEEE Transactions on Neural Networks and Learning Systems
+  - IEEE Transactions on Image Processing
 
 - Conference Reviewers:
   - MICCAI 2024, 2025
@@ -42,7 +43,7 @@ B.E. in Computer Science and Technology, GPA: Top 10% of majors
 - **National First Price** of National “Internet +” College Students Innovation and Entrepreneurship Competition
 
 # Awards
-
+- PhD Innovation Scholarship of Sichuan University, 2025
 - Outstanding Graduate of Sichuan University, 2022
 - Outstanding Student of Sichuan University, 2020 and 2021
 - Second-class of Excellent Graduate Scholarship by Sichuan University, 2021 and 2024
