@@ -6,16 +6,18 @@ author_profile: true
 ---
 
 # Papers
-- **Tianzhong Lan**, Fanxin Zeng, Zhang Yi, Xiuyuan Xu, Min Zhu. "ICNoduleNet: Enhancing Pulmonary Nodule Detection Performance on Sharp Kernel CT Imaging." IEEE Journal of Biomedical and Health Informatics (2024).
-- **Tianzhong Lan**, Nan Chen, Zhang Yi, Xiuyuan Xu, Min Zhu. "Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba." The 28th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025).
+- **Tianzhong Lan**, Weili Jiang, Yisong Liu, Yi Zhou, Junqi Bai, Si Yong Yeo, Xulei Yang, Min Zhu. "Wavelet-Driven Cross-Domain Consistency for Mixed-Supervised 3D Tumor Segmentation." The 19th European Conference on Computer Vision (ECCV 2026).
 - **Tianzhong Lan**, Zhang Yi, Xiuyuan Xu, Min Zhu. "GeoCoBox: Box-supervised 3D Tumor Segmentation via Geometric Co-embedding." The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), **oral**.
-- **Tianzhong Lan**, Zhang Yi, Xiuyuan Xu, Min Zhu. "LooBox: Loose-box-supervised 3D Tumor Segmentation with Self-correcting Bidirectional Learning." ACM Multimedia 2025.  
+- **Tianzhong Lan**, Zhang Yi, Xiuyuan Xu, Min Zhu. "LooBox: Loose-box-supervised 3D Tumor Segmentation with Self-correcting Bidirectional Learning." ACM Multimedia 2025.
+- **Tianzhong Lan**, Nan Chen, Zhang Yi, Xiuyuan Xu, Min Zhu. "Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba." The 28th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025).
+- **Tianzhong Lan**, Fanxin Zeng, Zhang Yi, Xiuyuan Xu, Min Zhu. "ICNoduleNet: Enhancing Pulmonary Nodule Detection Performance on Sharp Kernel CT Imaging." IEEE Journal of Biomedical and Health Informatics (2024).
 - Jun Shao, Gang Wang, Le Yi, Chengdi Wang, **Tianzhong Lan**, Xiuyuan Xu, Jixiang Guo, Taibing Deng, Dan Liu, Bojiang Chen, Zhang Yi, Weimin Li. Deep Learning Empowers Lung Cancer Screening Based on Mobile Low-Dose Computed Tomography in Resource-Constrained Sites. Front. Biosci. (Landmark Ed) 2022, 27(7), 212.  
 
 # Preprints
-- **Tianzhong Lan**, Weili Jiang, Yisong Liu, Yi Zhou, Junqi Bai, Si Yong Yeo, Xulei Yang, Min Zhu. "Wavelet-Driven Cross-Domain Consistency for Mixed-Supervised 3D Tumor Segmentation"
 - **Tianzhong Lan**, Weili Jiang, Ziyuan Yang, Xulei Yang, Yang Feng, Min Zhu. "Less Masks, More Reports: Closed-Loop Text-Grounded Image-to-Mask for 3D Small Nodule Segmentation"
-<!-- CVPR 2026 *(Under Review)* -->
+- <!-- AAAI  2027 *(Under Review)* -->
+- **Tianzhong Lan**, Weili Jiang, Yang Feng, Xulei Yang, Min Zhu. "From Invariance to Transport: Flow-Matched Representation Alignment for Continual Lesion Learning"
+- <!-- TPAMI *(Under Review)* -->
 
 # Patents
 
