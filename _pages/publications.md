@@ -15,9 +15,7 @@ author_profile: true
 
 # Preprints
 - **Tianzhong Lan**, Weili Jiang, Ziyuan Yang, Xulei Yang, Yang Feng, Min Zhu. "Less Masks, More Reports: Closed-Loop Text-Grounded Image-to-Mask for 3D Small Nodule Segmentation"
-- <!-- AAAI  2027 *(Under Review)* -->
 - **Tianzhong Lan**, Weili Jiang, Yang Feng, Xulei Yang, Min Zhu. "From Invariance to Transport: Flow-Matched Representation Alignment for Continual Lesion Learning"
-- <!-- TPAMI *(Under Review)* -->
 
 # Patents
 
