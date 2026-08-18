@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Please find my CV here: [English Version](https://tzhongboyyy97.github.io/files/cv_english.pdf).
+Please find my CV here: [English Version](https://tzhongboyyy97.github.io/files/ltz-cv_v2.pdf).
 
 # Education
 
