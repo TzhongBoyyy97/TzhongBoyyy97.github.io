@@ -20,10 +20,6 @@ M.S. in Software Engineering
 - College of Computer Science, Northern University of Technology, 2019  
 B.E. in Computer Science and Technology, GPA: Top 10% of majors
 
-# Teaching
-
-- Teaching Assistant: Database Systems, Sichuan University, Fall 2021
-
 # Academic Services
 - Session Chairs:
   - ACM MM 2025
@@ -32,11 +28,14 @@ B.E. in Computer Science and Technology, GPA: Top 10% of majors
   - Artificial Intelligence in Medicine
   - IEEE Transactions on Neural Networks and Learning Systems
   - IEEE Transactions on Image Processing
+  - IEEE Journal of Biomedical and Health Informatics
+  - BMC Medical Imaging
+  - Scientific Report
 
 - Conference Reviewers:
-  - MICCAI 2024, 2025
+  - MICCAI 2024, 2025, 2026
   - ACM MM 2025
-  - AAAI 2026
+  - AAAI 2026, 2027
 
 # Competitions
 
